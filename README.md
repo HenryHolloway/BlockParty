@@ -1,4 +1,4 @@
-![Block Party](https://raw.githubusercontent.com/HenryHolloway/BlockParty/refs/heads/main/icon_large.webp)
+![Block Party](https://raw.githubusercontent.com/HenryHolloway/BlockParty/refs/heads/main/icons/icon128.png)
 
 # Block Party
 
