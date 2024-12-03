@@ -1,5 +1,6 @@
-![Block Party](https://raw.githubusercontent.com/HenryHolloway/BlockParty/refs/heads/main/icons/icon128.png)
-
+<p align="center">
+  <img width="420" height="420" src="https://raw.githubusercontent.com/HenryHolloway/BlockParty/refs/heads/main/icon_large.webp">
+</p>
 # Block Party
 
 Block Party is a browser extension designed to help you maintain your mental health by hiding elements on web pages that contain specific phrases. Whether you're looking to avoid spoilers, filter out negative content, or simply customize your browsing experience, Block Party is here to help.
